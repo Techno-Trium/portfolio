@@ -1,0 +1,7 @@
+Un-publish categories
+Un-publish products
+Use contextual binds for selected plugin hooks
+Add reports
+Promo codes
+"Danger Zone" implementation (admin menu)
+Localization support (+remove messages from code)
