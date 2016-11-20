@@ -1,8 +1,7 @@
 [![Build Status](https://travis-ci.org/aasisvinayak/flymyshop.svg?branch=master)](https://travis-ci.org/aasisvinayak/flymyshop)
 [![Latest Stable Version](https://poser.pugx.org/aasisvinayak/shop/v/stable)](https://packagist.org/packages/aasisvinayak/shop)
 [![License](https://poser.pugx.org/aasisvinayak/shop/license)](https://packagist.org/packages/aasisvinayak/shop)
-[![StyleCI](https://styleci.io/repos/66875598/shield)](https://styleci.io/repos/66875598)
-[![Total Downloads](https://poser.pugx.org/aasisvinayak/shop/d/total.svg)](https://packagist.org/packages/aasisvinayak/shop)
+
 
 
 #Techno-trium Ltd
